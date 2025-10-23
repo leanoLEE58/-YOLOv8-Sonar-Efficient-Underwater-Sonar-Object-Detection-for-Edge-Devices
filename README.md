@@ -190,16 +190,15 @@ Please open an issue or submit a pull request!
 - **Kaizhi Dong** - dongkaizhi@stu.ouc.edu.cn
 
 **Supervisor:**
-- **Guihui Li** - guihuilee@stu.ouc.edu.cn
+- **rongshenghui** - rongshenghui@ouc.edu.cn
 
 **Institution:**  
 Ocean University of China  
-Underwater Robotics Laboratory  
 Qingdao, Shandong, China
 
 ---
 
-## 📜 License
+## 📜 License（pending）
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
