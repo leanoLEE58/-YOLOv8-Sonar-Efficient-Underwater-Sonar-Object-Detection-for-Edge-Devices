@@ -5,7 +5,7 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-yellow.svg)]()
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-Enhanced-brightgreen.svg)]()
 [![Edge AI](https://img.shields.io/badge/Edge-Deployment-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-red.svg)](LICENSE)
+
 
 **Lightweight Sonar Object Detection for Underwater Robotics**
 
