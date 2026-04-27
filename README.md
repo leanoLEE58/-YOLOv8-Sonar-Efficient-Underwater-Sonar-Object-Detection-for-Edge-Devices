@@ -9,7 +9,6 @@
 
 **Lightweight Sonar Object Detection for Underwater Robotics**
 
-*Ocean University of China - Underwater Robotics Lab*
 
 🚧 **Project Status: Active Development** 🚧
 
